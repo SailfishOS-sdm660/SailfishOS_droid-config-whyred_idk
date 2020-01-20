@@ -1,7 +1,7 @@
 # Feel free to disable non-critical HA parts during devel by commenting lines out
 # Generated in hadk by executing: rpm/dhd/helpers/add_new_device.sh
 
-Description: Pattern with packages for vince HW Adaptation
+Description: Pattern with packages for whyred HW Adaptation
 Name: jolla-hw-adaptation-whyred
 Requires:
 - droid-hal-whyred
