@@ -2,9 +2,9 @@
 # Generated in hadk by executing: rpm/dhd/helpers/add_new_device.sh
 
 Description: Pattern with packages for vince configurations
-Name: jolla-configuration-vince
+Name: jolla-configuration-whyred
 Requires:
-- pattern:jolla-hw-adaptation-vince
+- pattern:jolla-hw-adaptation-whyred
 - patterns-sailfish-applications
 - patterns-sailfish-ui
 # For devices with cellular modem. Those without one, please comment out:
@@ -46,5 +46,5 @@ Requires:
 - jolla-calendar
 - sailfish-weather
 
-Summary: Jolla Configuration vince
+Summary: Jolla Configuration whyred
 
