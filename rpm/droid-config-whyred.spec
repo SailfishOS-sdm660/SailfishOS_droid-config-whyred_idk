@@ -1,9 +1,9 @@
 # These and other macros are documented in
 # ../droid-configs-device/droid-configs.inc
-%define device vince
+%define device whyred
 %define vendor xiaomi
 %define vendor_pretty Xiaomi
-%define device_pretty Redmi 5 Plus (vince)
+%define device_pretty Redmi 5 Pro (whyred)
 %define dcd_path ./
 # Adjust this for your device
 %define pixel_ratio 1.5
