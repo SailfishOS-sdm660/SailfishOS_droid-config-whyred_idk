@@ -2,19 +2,19 @@
 # Generated in hadk by executing: rpm/dhd/helpers/add_new_device.sh
 
 Description: Pattern with packages for vince HW Adaptation
-Name: jolla-hw-adaptation-vince
+Name: jolla-hw-adaptation-whyred
 Requires:
-- droid-hal-vince
-- droid-hal-vince-img-boot
-- droid-hal-vince-kernel-modules
-- droid-config-vince-sailfish
-- droid-config-vince-pulseaudio-settings
-- droid-config-vince-policy-settings
-- droid-config-vince-preinit-plugin
-- droid-config-vince-flashing
-- droid-config-vince-bluez5
-- droid-hal-version-vince
-- droid-hal-vince-detritus
+- droid-hal-whyred
+- droid-hal-whyred-img-boot
+- droid-hal-whyred-kernel-modules
+- droid-config-whyred-sailfish
+- droid-config-whyred-pulseaudio-settings
+- droid-config-whyred-policy-settings
+- droid-config-whyred-preinit-plugin
+- droid-config-whyred-flashing
+- droid-config-whyred-bluez5
+- droid-hal-version-whyred
+- droid-hal-whyred-detritus
 
 
 # Hybris packages
